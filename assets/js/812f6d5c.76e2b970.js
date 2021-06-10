@@ -1,0 +1,1 @@
+(self.webpackChunksimarwin=self.webpackChunksimarwin||[]).push([[506],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hola","permalink":"/blog/hola"}]}')}}]);

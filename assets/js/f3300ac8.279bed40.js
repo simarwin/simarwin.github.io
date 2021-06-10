@@ -1,0 +1,1 @@
+(self.webpackChunksimarwin=self.webpackChunksimarwin||[]).push([[513],{8139:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"simar","name":"simar","count":1,"permalink":"/blog/tags/simar"}')}}]);

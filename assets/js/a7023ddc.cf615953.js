@@ -1,0 +1,1 @@
+(self.webpackChunksimarwin=self.webpackChunksimarwin||[]).push([[713],{7485:function(a){"use strict";a.exports=JSON.parse('{"hola":{"allTagsPath":"/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/blog/tags/hola"},"simar":{"allTagsPath":"/blog/tags","slug":"simar","name":"simar","count":1,"permalink":"/blog/tags/simar"}}')}}]);
